@@ -1,0 +1,2 @@
+error!!!!![11-Jan-2020 18:32:56 Europe/Berlin] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/realestate/search/search.php on line 5
+[11-Jan-2020 18:32:56 Europe/Berlin] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/realestate/search/search.php on line 5
